@@ -1,8 +1,6 @@
 ### About me
 👋 Hi, I'm Diego Manama, a self-taught learner looking to land my first job in web development.
 
-😄 Pronouns: he/him.
-
 ⚡ Fun fact: I learned English as a second language by watching Netflix and YouTube videos in English.
 
 ### Interests
