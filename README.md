@@ -23,5 +23,3 @@
 
 ### Contact
 📫 You can reach me through [diego.manama@securedmail.simplelogin.com](mailto:diego.manama@securedmail.simplelogin.com).
-
-### About me
