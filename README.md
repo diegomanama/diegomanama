@@ -1,5 +1,5 @@
 ### About me
-👋 Hi, I'm Diego Manama, a self-taught learner looking to land my first job in web development.
+👋 Hi there! I'm Diego Manama, a Venezuelan enthusiast self-taught developer, privacy advocate and open source freak. My favorite hobbit is learn new languages through Immersion.
 
 ⚡ Fun fact: I learned English as a second language by watching Netflix and YouTube videos in English.
 
